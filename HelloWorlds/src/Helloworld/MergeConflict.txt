@@ -1,7 +1,3 @@
 Jack and Jill
 John goes up the hill
-<<<<<<< HEAD
-gagagagaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaagagagagaaaaaaaaaaaaaaaaaaaaaaaaa
-=======
-gagagagaaaaaaaaaaaaaaaaaaaaaaaaagagagagaaaaaaaaaawdadadwsssssssssssssaaaaaaaaaaaaaaaaaaaagagagagaaaaaaaaaaaaaaaaaaaaaaaaagagagagaaaaaaaaaaaaaaaaaaaaaaaaa
->>>>>>> branch 'develop' of https://github.com/pop088/Helloworld.git
+gagagagaaaaaaaaaaaaaaaaaaaaaagaaaaaaaaaaaaaaaaaaaaaaaaa
